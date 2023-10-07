@@ -45,9 +45,9 @@ npm run start
   ![Alt text](model-dev-via-nodejs.gif)
 
 - If you run on `stage-model-deployment/via-nodejs` you can check the endpoint of prediction using [Postman](https://www.postman.com/downloads/) or [Thunder Client](https://www.thunderclient.com/)
-
   ![Alt text](model-deploy-via-nodejs-test-api.gif)
-  While you run the server, you can open `index.html` (on the same folder) to see UI of prediction
+
+- While you run the server, you can open `index.html` (on the same folder) to see UI of prediction
   ![Alt text](model-deploy-via-nodejs-ui.gif)
 
 ## Contact
